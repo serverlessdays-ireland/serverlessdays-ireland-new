@@ -1,6 +1,6 @@
 # ServerlessDays Dublin
 
-![social-preview-image](https://github.com/serverlessdays-dublin/serverlessdays-ireland-new/blob/main/public/social-preview-image.png)
+![site-preview-image](https://github.com/serverlessdays-dublin/serverlessdays-ireland-new/blob/main/public/site-preview-image.png)
 
 ServerlessDays are a family of events around the world focused on fostering a community around serverless technologies.
 
@@ -13,4 +13,4 @@ Accessible: financially and physically accessible to the community
 Representative: representative of the broader community within which it exists
 We follow and enforce the ServerlessDays Code of Conduct.
 
-Learn more at the ServerlessDays website. https://dublin.serverlessdays.io/
+Learn more at the ServerlessDays website. https://ireland.serverlessdays.io/
