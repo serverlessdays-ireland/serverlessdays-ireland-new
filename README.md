@@ -1,6 +1,6 @@
 # ServerlessDays Dublin
 
-![social-preview-image](https://github.com/serverlessdays-dublin/ireland.serverlessdays.io/blob/main/public/social-preview-image.png)
+![social-preview-image](https://github.com/serverlessdays-dublin/serverlessdays-ireland-new/blob/main/public/social-preview-image.png)
 
 ServerlessDays are a family of events around the world focused on fostering a community around serverless technologies.
 
